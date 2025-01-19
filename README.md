@@ -1,6 +1,7 @@
-Here is the markdown code for the README file:
+Based on the gathered information, here is a draft of the README file for the iNotebook repository:
 
-```markdown
+---
+
 # iNotebook - NoteBook on Cloud
 
 ## Overview
@@ -77,7 +78,6 @@ iNotebook
 └── README.md
 ```
 
-
-
 For any queries or contributions, please reach out through the [GitHub repository](https://github.com/Dkrishnavamsi/iNotebook).
-```
+
+---
