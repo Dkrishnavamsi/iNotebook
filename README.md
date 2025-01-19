@@ -1,7 +1,3 @@
-Based on the gathered information, here is a draft of the README file for the iNotebook repository:
-
----
-
 # iNotebook - NoteBook on Cloud
 
 ## Overview
@@ -10,8 +6,6 @@ The **iNotebook** application is a secure and efficient cloud-based notebook des
 ## Features
 - **User Authentication**: Secure login and registration using encrypted credentials.
 - **Note Management**: Create, read, update, and delete notes effortlessly.
-- **Categorization**: Organize notes into categories for easy access.
-- **Search Functionality**: Quickly find notes using the search feature.
 - **Responsive Design**: Optimized for mobile, tablet, and desktop devices.
 
 ## Technologies Used
